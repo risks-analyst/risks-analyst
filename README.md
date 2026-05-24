@@ -1,4 +1,7 @@
 # Blockchain Data & Analytics Engineer
+
+![On-Chain Intelligence Dashboard](assets/dashboard.png)
+
 > Python • Web3 • ETL • Real-Time Monitoring
 
 Building real-time data infrastructure and analytics tooling for the Ethereum ecosystem. 
